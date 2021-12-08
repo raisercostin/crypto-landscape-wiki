@@ -1,2 +1,1 @@
-# crypto-landscape-wiki
-Crypto currencies landscape
+See https://github.com/raisercostin/crypto-landscape-wiki/wiki
